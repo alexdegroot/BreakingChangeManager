@@ -5,7 +5,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Rules\Binary\Assembly\" />
     <Folder Include="Rules\Binary\Types\" />
     <Folder Include="Rules\Behavior\" />
     <Folder Include="Rules\Source\" />

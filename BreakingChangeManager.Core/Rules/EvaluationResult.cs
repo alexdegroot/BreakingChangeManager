@@ -1,6 +1,6 @@
 ﻿namespace BreakingChangeManager.Core.Rules
 {
-    public enum RuleResult
+    public enum EvaluationResult
     {
         NoChange,
         AllowedChange,
